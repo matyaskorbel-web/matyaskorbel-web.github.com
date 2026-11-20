@@ -1,1 +1,1 @@
-# matyaskorbel-web.github.com
+# matyaskorbel-web.github.io
